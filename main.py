@@ -83,7 +83,7 @@ class MAIN:
             self.Threads()
 
     def title(self): 
-        ctypes.windll.kernel32.SetConsoleTitleW(f"{name} - Checked: {self.Checked} |  Available: {self.Available} | Taken: {self.Taken} | Retries: {self.Retries} | Developed by @59n on Github")
+        ctypes.windll.kernel32.SetConsoleTitleW(f"{name} - Checked: {self.Checked} |  Available: {self.Available} | Taken: {self.Taken} | Retries: {self.Retries} | Developed by @SquarayTechnology on Github")
 
     def login(self,username,proxy): 
         self.title()
@@ -138,7 +138,7 @@ ape = (Fore.LIGHTBLUE_EX + f"""
 \t\t██╔═══╝ ╚════██║██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
 \t\t██║     ███████║███████╗██║  ██║   ██║   ███████╗██║  ██║
 \t\t╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝  ╚════╝
-                  {w}SquarayTechnology{l}                                                                                                                                                                                                                                                                                 
+                  {w}bySquarayTechnology{l}                                                                                                                                                                                                                                                                                 
 """)   
 
 banner = f"""
