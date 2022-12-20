@@ -14,19 +14,27 @@
 
 --------------------------------------
 
-### Usage
+### Installation
 
 1.  Download ZIP <a href="https://github.com/SquarayDevelopment/Pornhub-Username-Checker/archive/refs/heads/main.zip">here</a> and extract the ZIP 
 
 2.  Install <a href="https://github.com/SquarayDevelopment/Pornhub-Username-Checker/blob/main/requirements.txt">requirements.txt</a> by typing `pip install -r requirements.txt` in Command Prompt
 
-3.  Put your proxies inside of `proxies.txt`
+3.  Put your http(s) proxies inside of `proxies.txt`
 
-4.  Run `claim.py` and login using your username and password
+4.  Load your usernames in `usernames.txt`
 
-5.  Enter your targeted username
+5.  Enter threads amount (Recommended under 300)
 
-6.  Enter threads amount
+--------------------------------------
+
+### Usage 
+
+HTTP(S) Proxies are required!
+
+Free proxies won't work!
+
+Captures 6+ character names only!
 
 --------------------------------------
 
